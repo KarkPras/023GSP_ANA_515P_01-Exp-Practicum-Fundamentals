@@ -1,11 +1,11 @@
 # 023GSP_ANA_515P_01-Exp-Practicum-Fundamentals
 
-#Mental Health in Tech Survey
-$Survey on Mental Health in the Tech Workplace in 2014
+#Mental Health in Tech Survey  
+#Survey on Mental Health in the Tech Workplace in 2014  
 
-This dataset contains the following data:
+This dataset contains the following data:  
 
-Timestamp
+Timestamp  
 Age  
 Gender  
 Country  
